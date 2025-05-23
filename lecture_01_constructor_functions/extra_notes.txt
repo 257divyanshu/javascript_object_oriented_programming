@@ -1,0 +1,3 @@
+📍 procedural programming paradigm
+
+📍 functional programming paradigm

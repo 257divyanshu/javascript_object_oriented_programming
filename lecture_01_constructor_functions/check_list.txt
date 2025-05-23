@@ -1,0 +1,4 @@
+programming paradigms
+creating constructor functions
+creating objects from constructor functions
+simple project for demonstration
