@@ -1,0 +1,2 @@
+inheritance in constructor functions (first do constructor linking and then inherit the prototype) (use the call method, mention the this keyword as the first argument)
+inheritance in classes (use the super method, specify the parameters only, this keyword isn't required)
