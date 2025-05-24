@@ -1,0 +1,4 @@
+setter functions
+getter functions
+private methods
+private members
